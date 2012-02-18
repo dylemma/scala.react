@@ -18,7 +18,7 @@ To use `scala.react` with your sbt project, add the following resolver to your `
 
     resolvers += "Dylemma's Repository" at "http://dylemma.github.com/scala.react/m2/releases"
 
-Then, include the project as a library dependency. If you are using `scalaVersion := "2.9.1", you can type
+Then, include the project as a library dependency. If you are using `scalaVersion := "2.9.1"`, you can type
 
     libraryDependencies += "scala" %% "scala-react" % "1.0"
 
