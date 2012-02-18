@@ -30,3 +30,8 @@ Developers
 ----------
 
 This project is configured to use [sbteclipse](https://github.com/typesafehub/sbteclipse) to work within Eclipse's Scala IDE. When running SBT, enter `eclipse` to generate the necessary Eclipse project files.
+
+Disclaimer
+----------
+
+The code is largely as I found it. I didn't modify any of the logic or data structures. My only intention for this project was to make it more easily available. I'm no scala expert and this is some fairly advanced stuff written by someone else. As such, I don't intend to try fixing any bugs that pop up.
