@@ -1,4 +1,6 @@
-name := "scalaReact"
+name := "scala-react"
+
+organization := "scala"
 
 version := "1.0"
 
