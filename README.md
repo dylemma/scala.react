@@ -1,7 +1,7 @@
 scala.react
 ===========
 
-This project is a port of [Ingo Maier's](http://lampwww.epfl.ch/~imaier/) implementation of scala.react, found in the paper, [Deprecating the Observer Pattern](http://lampwww.epfl.ch/~imaier/pub/DeprecatingObserversTR2010.pdf)
+This project is a port of Ingo Maier's implementation of scala.react, found in the paper, [Deprecating the Observer Pattern](http://infoscience.epfl.ch/record/148043/files/DeprecatingObserversTR2010.pdf)
 
 Changes
 -------
